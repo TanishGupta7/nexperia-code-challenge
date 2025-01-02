@@ -34,4 +34,4 @@ This project is a submission for the Nexperia Tech coding assignment. It demonst
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/nexperia-code-challenge.git
+   git clone https://github.com/TanishGupta7/nexperia-code-challenge.git
